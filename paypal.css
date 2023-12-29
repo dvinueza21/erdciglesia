@@ -1,0 +1,15 @@
+.formulario{
+    position: absolute;
+    top: 70%;
+    left: 600px;
+    background:#efe5c7 ;
+    border-radius: 50px;
+    border-bottom: 1px solid silver;
+    font-size: 18px;
+    cursor: pointer;
+    outline: none;
+}
+
+
+
+
